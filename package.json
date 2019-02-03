@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gabrielo_9103@hotmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }

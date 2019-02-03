@@ -2,5 +2,8 @@
 
 'use strict'
 
+const minimist = require('minimist')
+
 console.log('hello worl comman line interface')
-console.log(process.argv)
+const args = minimist(process.argv)
+console.log(args)
