@@ -1,0 +1,11 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabrielo_9103@hotmail.com",
+  "license": "ISC"
+}
