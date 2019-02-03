@@ -9,6 +9,8 @@
   "author": "gabrielo_9103@hotmail.com",
   "license": "ISC",
   "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.10",
     "minimist": "^1.2.0"
   }
 }
